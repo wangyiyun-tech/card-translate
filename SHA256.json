@@ -1,4 +1,5 @@
 {
-  "Algorithm": "SHA256",
-  "Hash": "930C93A8505E32575BC268CE89BA2AC22058B10D6067C591BF560962E7987542"
+  "hash": "c4e25529a2af008f91b44ce76ab5c73bf5736d9c9d3f90d9eed415b720e731fa",
+  "algorithm": "SHA256",
+  "file": "card-translate-1.1.5.zip"
 }
